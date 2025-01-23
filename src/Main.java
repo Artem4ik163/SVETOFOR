@@ -9,5 +9,7 @@ public class Main {
         s1.svetofor(s1.change_color());
         s1.svetofor(s1.change_color());
         s1.svetofor(s1.change_color());
+        s1.svetofor(s1.change_color());
+        s1.svetofor(s1.change_color());
     }
 }
